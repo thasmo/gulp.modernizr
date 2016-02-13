@@ -1,0 +1,37 @@
+{
+  "name": "@thasmo/gulp-modernizr",
+  "description": "Gulp plugin to generate a custom Modernizr build.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": [
+    "gulp",
+    "plugin",
+    "gulpplugin",
+    "custom",
+    "modernizr",
+    "build",
+    "feature",
+    "detection",
+    "browser",
+    "support"
+  ],
+  "author": {
+    "name": "Thomas Deinhamer",
+    "email": "thasmo@gmail.com",
+    "url": "https://thasmo.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/thasmo/gulp.modernizr"
+  },
+  "bugs": "https://github.com/thasmo/gulp.modernizr/issues",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "modernizr": "~3.3",
+    "through2": "~2.0",
+    "vinyl": "~1.1"
+  }
+}
