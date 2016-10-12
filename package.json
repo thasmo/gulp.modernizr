@@ -32,6 +32,6 @@
   "dependencies": {
     "modernizr": "~3.3",
     "through2": "~2.0",
-    "vinyl": "~1.1"
+    "vinyl": "~2.0"
   }
 }
